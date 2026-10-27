@@ -1,32 +1,64 @@
-<h1 align="center">Hi 👋, I'm José Luis</h1>
-<h3 align="center">A passionate fullstack developer from México</h3>
+# Hi 👋, I'm José Luis
 
-- 🌱 I’m currently learning **python**
+### Software Engineer | Java · Spring Boot · React
 
-- 📫 How to reach me **jlpinomoreno@gmail.com**
+I'm a software engineer with extensive experience designing and building backend systems and full-stack applications. I've worked on independent products from initial planning and architecture through implementation and deployment.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jose-luis-pino-moreno-a9a16892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-luis-pino-moreno-a9a16892" height="30" width="40" /></a>
-</p>
+I enjoy solving complex engineering problems, improving existing architectures, and building maintainable software that addresses real business needs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## Technical Focus
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlpm-mex&show_icons=true&locale=en&layout=compact" alt="jlpm-mex" /></p>
+- **Backend:** Java, Spring Boot, REST APIs, Hibernate/JPA
+- **Frontend:** React, React Native, JavaScript, TypeScript
+- **Messaging & Real-Time Communication:** RabbitMQ, WebSockets
+- **Databases:** MySQL, relational data modeling
+- **Testing & CI/CD:** JUnit 5, Maven, GitHub Actions
+- **Infrastructure:** Docker, AWS
 
+## Featured Projects
 
-<!--
-**jlpm-mex/jlpm-mex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Changarritos](https://changarritos.com.mx)
 
-Here are some ideas to get you started:
+An independently developed platform connecting local businesses with potential customers who need their services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I led the development from planning through backend and frontend implementation, building a system that allows customers to submit service requests and connects them with relevant businesses in the surrounding area.
+
+**Key engineering contributions:**
+
+- **Location-based request matching:** Customers submit a service request and select a business category. The system notifies eligible businesses in the area through email, SMS, and push notifications.
+- **Asynchronous messaging:** Integrated RabbitMQ to handle notification delivery and separate business-critical notifications from transactional communications.
+- **Real-time communication:** Used WebSockets to keep requests active while businesses responded, then connected the customer and the selected business through an in-app chat.
+- **Configurable message templates:** Replaced hardcoded messages with a reusable template module, applying clean code principles and design patterns.
+- **Architectural refactoring:** Reassessed an initial Factory/Abstract Factory implementation and replaced unnecessary complexity with a Registry/Facade-based design.
+- **Dependency isolation:** Encapsulated template processing behind a dedicated service, keeping the communication management layer independent of the underlying template engine.
+
+**Focus:** System design, asynchronous processing, real-time communication, separation of concerns, and maintainable backend architecture.
+
+### [CFDI Admon](https://github.com/jlpm-mex/cfdiadmon)
+
+A Java and Spring Boot project focused on managing and querying Mexican electronic invoices (CFDI).
+
+**Focus:** Backend development, data access, and invoice data processing.
+
+### [Java Interview Lab](https://github.com/jlpm-mex/java-interview-lab)
+
+A collection of algorithmic problems implemented in Java, with documented approaches, complexity analysis, automated tests, and CI validation.
+
+**Focus:** Data structures, problem-solving, testing, and code quality.
+
+## Currently Learning
+
+- Python programming and its ecosystem
+- Machine Learning
+- Software design, automated testing, and CI/CD practices
+
+## Education
+
+- Systems Engineering — Universidad de las Américas Puebla
+- MIT Full Stack Development with MERN Certificate
+- Cornell Machine Learning Certificate
+
+## Connect
+
+- [GitHub](https://github.com/jlpm-mex)
+- [LinkedIn](https://www.linkedin.com/in/jose-luis-pino-moreno-a9a16892/)
